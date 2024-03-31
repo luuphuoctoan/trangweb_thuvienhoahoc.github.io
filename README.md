@@ -1,6 +1,0 @@
-Web_Thuvienhoahoc.html
-Web_nguyentohoahoc.html
-Web_Congthuchoahoc.html
-Web_Gioithieu.html
-Web_nguyentohoahoc.js
-Web_nguyentohoahoc.css
