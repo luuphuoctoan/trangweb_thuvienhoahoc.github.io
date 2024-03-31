@@ -1,0 +1,134 @@
+*{
+    width:auto;
+    height:auto;
+    margin:1; 
+}
+body{
+    background-color:rgb(228, 228, 228);
+}
+.hinhnen{
+    width: auto;
+    height: auto;
+    color:rgba(224, 222, 219, 0.945);
+}
+.header{
+    width: auto;
+    height: 50px;
+    background-color: #007bff;
+}
+.container{
+    border-radius: 5px; 
+    position: absolute; 
+    left: 270px;
+    top:35px; 
+    width:770px;
+    height:50px; 
+    background-color: #17a2b8;
+}
+/* background Web trang chu */
+.background{
+    z-index: -1;
+    position: absolute;
+    left: 160px;
+    top:75px;
+    bottom: auto;
+    right: 50px;
+    border-radius: 50px;
+}
+.background2{
+    top:200px;
+    left:160px;
+    right:76px;
+    position: absolute;
+    width: 968px;
+    height: 430px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+/* background Web Bang nguyen to */
+.background3{
+    top:165px;
+    left:160px;
+    right:75px;
+    position: absolute;
+    width: 968px;
+    height: 465px;
+    background-color: #ffffff;
+    border-radius: 10px; 
+    border-inline-color: 1px #000000;
+}
+
+/* Phần dòng chữ 'Chào mừng bạn đến với Thư Viện Hóa Học' */
+p{
+    
+    font-style:italic;
+    font-family: Tahoma;
+    font-size: 35px;
+    text-align: center;
+    padding-top:40px;
+    color: #ffffff62;
+    text-align: center;
+    line-height: 25px;
+    font-family: "Avant Garde", Avantgarde, "centure Gothic",centuregothic,"AppleGothic", sans-serif;
+    letter-spacing:.1em;
+    text-shadow: 0 -1px 0 #fff, 0 1px 0 #2e2e2e;
+}
+/* m */
+header.nav{
+    margin: 5px 10%;
+    background: none;
+}
+nav>ul{
+    display: flex;
+
+}
+nav>ul li{
+    list-style: none;
+    border-right: 1px solid #ffffff;
+    border-left: 1px solid #ffffff;
+    padding: 50 50px;
+
+
+}
+nav> ul li a{
+    font-family: tahoma;
+    text-size-adjust: 100px;
+    text-align: center;
+    display: block;
+    padding: 0 25px;
+    line-height: 25px;
+    color: #ffffff;
+    font-size: 20px;
+    text-decoration: none;
+}
+nav li li:first-child a{
+    border-left: none;
+}
+.Doimau:hover{
+    color:#ffcf40;
+}
+.chu_chay{
+    z-index:-1;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    top:10px;
+    height: 25px;
+    width: -100px;
+}
+.BNT{
+    z-index: 2;
+    font-family:"Avant Garde",Avantgarde,"Century Gothic",CenturyGothic,"AppleGothic",sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+    height:50px;
+    padding-top: 45px;
+    color: #131313;
+    background-color: #e7e5e4;
+    letter-spacing: .15em;
+    text-shadow: 1px -1px 0 #767676,-1px 2px 1px #737272,-2px 4px 1px #767474,-3px 6px 1px #787777,-4px 8px 1px #7b7a7a, -5px 10px 1px #7f7d7d,-6px 12px 1px #828181;
+}
+.shortcut icon{
+    height: 10px;
+    width: 10px;
+    
+}

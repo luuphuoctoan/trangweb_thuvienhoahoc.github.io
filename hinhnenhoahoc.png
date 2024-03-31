@@ -1,0 +1,447 @@
+
+<!DOCTYPE html>
+<html lang="vi" xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	Thủ thuật Đồ Họa, Thủ thuật Photoshop, Chỉnh sửa ảnh từ cơ bản đến nâng cao
+</title><link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    <!--iOS/android/handheld specific -->
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="apple-mobile-web-app-capable" content="yes" /><meta name="apple-mobile-web-app-status-bar-style" content="black" /><meta property="fb:app_id" content="725883087532941" /><meta name="ahrefs-site-verification" content="2044285fb28951cd0fe3015927dc144d14e6bfbe4b19d3161e15b9b63b42ff3f" />
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.2/css/bootstrap.min.css" integrity="sha512-rt/SrQ4UNIaGfDyEXZtNcyWvQeOq0QLygHluFQcSjaGB04IxWhal71tKuzP6K8eYXYB6vJV4pHkXcmFGGQ1/0w==" crossorigin="anonymous" referrerpolicy="no-referrer" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+    <!-- Menu -->
+    <link id="ucHead1_effect" rel="stylesheet" type="text/css" media="all" href="/menu/webslidemenu/dropdown-effects/fade-down.css" /><link rel="stylesheet" type="text/css" media="all" href="/menu/webslidemenu/webslidemenu.css" /><link id="ucHead1_theme" rel="stylesheet" type="text/css" media="all" href="/menu/webslidemenu/color-skins/black-blue.css" />
+    <script type="text/javascript" src="/menu/webslidemenu/webslidemenu.js"></script>
+    <link rel="stylesheet" type="text/css" media="all" href="/menu/custom-menu.css" /><link rel="stylesheet" type="text/css" media="all" href="/menu/custom-color.css" />
+    <!-- Menu -->
+
+    <link rel="stylesheet" href="/style.min.css" />
+    
+
+    <script>
+        (function() {
+            var cx = '011832862338347444329:qwegbh50y28';
+            var gcse = document.createElement('script');
+            gcse.type = 'text/javascript';
+            gcse.async = true;
+            gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(gcse, s);
+        })();
+    </script>
+
+
+<meta name="description" content="Thủ thuật đồ họa, photoshop - Tổng hợp các thủ thuật thiết kế đồ họa, sử dụng phần mềm đồ họa Photoshop, CorelDRAW, Illustrator, chỉnh sửa ảnh... từ cơ bản đển nâng cao giúp các bạn tự học xử lý ảnh photoshop, sử dụng thành thạo các công cụ đồ họa, nâng cao hiệu suất công việc." /><meta name="keywords" content="thủ thuật đồ họa, thủ thuật photoshop, thủ thuật coreldraw, học đồ họa, tự học photoshop, Photoshop, CorelDRAW, Illustrator, chỉnh sửa ảnh" /></head>
+<body>
+    <div id="wrap" class="wsmenucontainer clearfix">
+        
+
+<!-- Mobile Header -->
+<div class="wsmobileheader clearfix">
+    <a id="wsnavtoggle" class="wsanimated-arrow"><span></span></a>
+    <span class="smllogo"><a href="/"><img src="/images/logo-mobile.png" width="240" alt="Thủ Thuật Phần Mềm" /></a></span>
+</div>
+<!-- Mobile Header -->
+
+
+<div id="header">
+    <div class="container">
+        <div class="row">
+
+            <div id="logo" class="col-md-4 d-flex align-items-center">
+                <p><a href="https://thuthuatphanmem.vn/" title="Thủ Thuật Phần Mềm"><img class="img-responsive" src="/images/logo.png" alt="Thủ Thuật Phần Mềm"></a></p>
+            </div> <!-- #logo -->
+
+            <div id="wg-header" class="col-md-8 right">
+                <div id="ucHeader1_div_adv_top_right" class="adv-top-right-728">
+                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- ThuThuatPhanMem.vn_728 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:728px;height:90px"
+                         data-ad-client="ca-pub-8968632188895249"
+                         data-ad-slot="4127205246"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                </div>
+            </div> <!-- End #wg-header -->
+
+        </div> <!-- .row -->
+    </div> <!-- .container -->
+
+</div> <!-- End #header -->
+
+<div id="main-menu">
+    <nav class="wsmenu clearfix">
+        <ul class="wsmenu-list">
+            <li aria-haspopup="true"><a href="#" class="wshomeicon active"><i class="fas fa-home"></i><span class="hometext">&nbsp;&nbsp;Home</span></a></li>
+
+            <li aria-haspopup="true"><a href="/thu-thuat/van-phong/"><i class="fas fa-list"></i>Văn Phòng<span class="wsarrow"></span></a>
+                <ul class="sub-menu">
+                    <li aria-haspopup="true"><a href="/thu-thuat/word/"><i class="fas fa-file-word"></i>Word</a></li>
+                    <li aria-haspopup="true"><a href="/thu-thuat/excel/"><i class="fas fa-file-excel"></i>Excel</a></li>
+                    <li aria-haspopup="true"><a href="/thu-thuat/powerpoint/"><i class="fas fa-file-powerpoint"></i>PowerPoint</a></li>
+                    <li aria-haspopup="true"><a href="/thu-thuat/pdf/"><i class="fas fa-file-pdf"></i>PDF</a></li>
+                    <li aria-haspopup="true"><a href="/thu-thuat/font/"><i class="fas fa-font"></i>Font</a></li>
+                    <li aria-haspopup="true"><a href="/thu-thuat/in-an/"><i class="fas fa-print"></i>In Ấn</a></li>
+                </ul>
+            </li>
+
+            <li aria-haspopup="true"><a href="/thu-thuat/mang-xa-hoi/"><i class="fa-solid fa-user-group"></i>Mạng Xã Hội<span class="wsarrow"></span></a>
+                <ul class="sub-menu">
+                    <li aria-haspopup="true"><a href="/thu-thuat/facebook/"><i class="fa-brands fa-facebook"></i>Facebook</a></li>
+                    <li aria-haspopup="true"><a href="/thu-thuat/zalo/"><i class="fa-solid fa-z"></i>Zalo</a></li>
+                    <li aria-haspopup="true"><a href="/thu-thuat/tiktok/"><i class="fa-brands fa-tiktok"></i>TikTok</a></li>
+                    <li aria-haspopup="true"><a href="/thu-thuat/youtube/"><i class="fa-brands fa-youtube"></i>YouTube</a></li>
+                    <li aria-haspopup="true"><a href="/thu-thuat/instagram/"><i class="fa-brands fa-square-instagram"></i>Instagram</a></li>
+                    <li aria-haspopup="true"><a href="/thu-thuat/twitter/"><i class="fa-brands fa-twitter"></i>Twitter</a></li>
+                </ul>
+            </li>
+
+            <li aria-haspopup="true"><a href="/thu-thuat/windows/"><i class="fa-brands fa-windows"></i>Windows<span class="wsarrow"></span></a>
+                <ul class="sub-menu">
+                    <li aria-haspopup="true"><a href="/thu-thuat/windows-11/"><i class="fa-brands fa-windows"></i>Windows 11</a></li>
+                    <li aria-haspopup="true"><a href="/thu-thuat/windows-10/"><i class="fa-brands fa-windows"></i>Windows 10</a></li>
+                    <li aria-haspopup="true"><a href="/thu-thuat/windows-7/"><i class="fa-brands fa-windows"></i>Windows 7</a></li>
+                </ul>
+            </li>
+
+            <li aria-haspopup="true"><a href="/thu-thuat/di-dong/"><i class="fa-solid fa-mobile-screen-button"></i>Di Động<span class="wsarrow"></span></a>
+                <ul class="sub-menu">
+                    <li aria-haspopup="true"><a href="/thu-thuat/android/"><i class="fa-solid fa-robot"></i>Android</a></li>
+                    <li aria-haspopup="true"><a href="/thu-thuat/ios/"><i class="fa-brands fa-apple"></i>IOS</a></li>
+                    <li aria-haspopup="true"><a href="/thu-thuat/ung-dung/"><i class="fa-brands fa-app-store-ios"></i>Ứng Dụng</a></li>
+                </ul>
+            </li>
+
+            <li aria-haspopup="true"><a href="/thu-thuat/do-hoa/"><i class="fa-solid fa-object-group"></i>Đồ Họa<span class="wsarrow"></span></a>
+                <ul class="sub-menu">
+                    <li aria-haspopup="true"><a href="/thu-thuat/thu-vien-do-hoa/"><i class="fa-solid fa-photo-film"></i>Thư Viện Đồ Họa</a></li>
+                    <li aria-haspopup="true"><a href="/thu-thuat/photoshop/"><i class="fa-solid fa-p"></i>Photoshop</a></li>
+                    <li aria-haspopup="true"><a href="/thu-thuat/adobe-illustrator/"><i class="fa-solid fa-a"></i>Adobe Illustrator</a></li>
+                    <li aria-haspopup="true"><a href="/thu-thuat/autocad/"><i class="fa-solid fa-c"></i>AutoCAD</a></li>
+                </ul>
+            </li>
+
+            <li aria-haspopup="true"><a href="/thu-thuat/internet/"><i class="fa-solid fa-earth-asia"></i>Internet<span class="wsarrow"></span></a>
+                <ul class="sub-menu">
+                    <li aria-haspopup="true"><a href="/thu-thuat/trinh-duyet/"><i class="fa-brands fa-chrome"></i>Trình Duyệt Web</a></li>
+                    <li aria-haspopup="true"><a href="/thu-thuat/email/"><i class="fa-solid fa-envelope"></i>Email</a></li>
+                    <li aria-haspopup="true"><a href="/thu-thuat/google/"><i class="fa-brands fa-google"></i>Google</a></li>
+                </ul>
+            </li>
+
+            <li aria-haspopup="true"><a href="/thu-thuat/phan-mem/"><i class="fa-solid fa-computer"></i>Phần Cứng<span class="wsarrow"></span></a>
+                <ul class="sub-menu">
+                    <li aria-haspopup="true"><a href="/thu-thuat/cpu/"><i class="fa-solid fa-microchip"></i>CPU</a></li>
+                    <li aria-haspopup="true"><a href="/thu-thuat/ram/"><i class="fa-solid fa-memory"></i>RAM</a></li>
+                    <li aria-haspopup="true"><a href="/thu-thuat/vga/"><i class="fa-solid fa-display"></i>VGA</a></li>
+                    <li aria-haspopup="true"><a href="/thu-thuat/ssd/"><i class="fa-regular fa-hard-drive"></i>SSD</a></li>
+                    <li aria-haspopup="true"><a href="/thu-thuat/usb/"><i class="fa-brands fa-usb"></i>USB</a></li>
+                    <li aria-haspopup="true"><a href="/thu-thuat/wifi/"><i class="fa-solid fa-wifi"></i>Wifi</a></li>
+                    <li aria-haspopup="true"><a href="/thu-thuat/laptop/"><i class="fa-solid fa-laptop"></i>Laptop</a></li>
+                </ul>
+            </li>
+
+            <li aria-haspopup="true"><a href="#"><i class="fas fa-list-ul"></i>Others<span class="wsarrow"></span></a>
+                <div class="wsmegamenu clearfix">
+                    <div class="container-fluid">
+                        <div class="row">
+
+                            <ul class="col-lg-3 col-md-12 col-xs-12 link-list">
+                                <li><a href="/thu-thuat/phan-mem/"><i class="fa-brands fa-microsoft"></i>Phần Mềm</a></li>
+                                <li><a href="/thu-thuat/audio-video/"><i class="fa-solid fa-play"></i>Audio/Video</a></li>
+                                <li><a href="/thu-thuat/game/"><i class="fa-solid fa-gamepad"></i>Game</a></li>
+                                <li><a href="/thu-thuat/mang-di-dong/"><i class="fa-solid fa-phone"></i>Mạng Di Động</a></li>
+                                <li><a href="/thu-thuat/mac/"><i class="fa-brands fa-apple"></i>Mac</a></li>
+                                <li><a href="/thu-thuat/linux/"><i class="fa-brands fa-linux"></i>Linux</a></li>
+                                <li><a href="/thu-thuat/manga-film/"><i class="fa-solid fa-clapperboard"></i>Manga / Film</a></li>
+                                <li><a href="/thu-thuat/anh-dep/"><i class="fa-regular fa-image"></i>Ảnh Đẹp</a></li>
+                                <li><a href="/thu-thuat/wallpapers/"><i class="fa-regular fa-images"></i>Wallpapers</a></li>
+                                <li><a href="/thu-thuat/tai-lieu/"><i class="fa-solid fa-paste"></i>Tài Liệu</a></li>
+                            </ul>
+
+                            <ul class="col-lg-3 col-md-12 col-xs-12 link-list">
+                                <li><a href="/thu-thuat/tai-chinh/"><i class="fa-solid fa-money-bill-trend-up"></i>Tài Chính</a></li>
+                                <li><a href="/thu-thuat/ngan-hang/"><i class="fa-solid fa-building-columns"></i>Ngân Hàng</a></li>
+                                <li><a href="/thu-thuat/xay-dung/"><i class="fa-regular fa-building"></i>Xây Dựng</a></li>
+                                <li><a href="/thu-thuat/noi-that/"><i class="fa-solid fa-couch"></i>Nội Thất</a></li>
+                                <li><a href="/thu-thuat/cuoc-song/"><i class="fa-solid fa-city"></i>Cuộc Sống</a></li>
+                                <li><a href="/thu-thuat/lam-dep/"><i class="fa-solid fa-spa"></i>Làm Đẹp</a></li>
+                                <li><a href="/thu-thuat/phong-thuy/"><i class="fa-solid fa-p"></i>Phong Thủy</a></li>
+                                <li><a href="/thu-thuat/viec-lam/"><i class="fa-solid fa-briefcase"></i>Việc Làm</a></li>
+                                <li><a href="/thu-thuat/du-lich/"><i class="fa-solid fa-person-walking-luggage"></i>Du Lịch</a></li>
+                                <li><a href="/thu-thuat/ngay-le-tet/"><i class="fa-solid fa-snowman"></i>Ngày Lễ - Tết</a></li>
+                            </ul>
+
+                            <ul class="col-lg-3 col-md-12 col-xs-12 link-list">
+                                <li><a href="/thu-thuat/ten-hay/"><i class="fa-solid fa-cake-candles"></i>Tên Hay</a></li>
+                                <li><a href="/thu-thuat/cau-noi-hay/"><i class="fa-regular fa-comment-dots"></i>Câu Nói Hay</a></li>
+                                <li><a href="/thu-thuat/loi-chuc-hay/"><i class="fa-solid fa-l"></i>Lời Chúc Hay</a></li>
+                                <li><a href="/thu-thuat/tho-van/"><i class="fa-solid fa-book-open"></i>Thơ Văn</a></li>
+                                <li><a href="/thu-thuat/hinh-xam/"><i class="fa-solid fa-signature"></i>Hình Xăm</a></li>
+                                <li><a href="/thu-thuat/giai-tri/"><i class="fa-solid fa-g"></i>Giải Trí</a></li>
+                                <li><a href="/thu-thuat/ma-buu-chinh/"><i class="fa-solid fa-envelopes-bulk"></i>Mã Bưu Chính</a></li>
+                                <li><a href="/thu-thuat/kich-thuoc/"><i class="fa-solid fa-pen-ruler"></i>Kích Thước</a></li>
+                                <li><a href="/thu-thuat/dinh-nghia/"><i class="fa-regular fa-lightbulb"></i>Định Nghĩa</a></li>
+                            </ul>
+
+                            <ul class="col-lg-3 col-md-12 col-xs-12 link-list">
+                                <li><a href="/thu-thuat/mam-non/"><i class="fa-solid fa-baby"></i>Mầm Non</a></li>
+                                <li><a href="/thu-thuat/tieu-hoc/"><i class="fa-solid fa-chalkboard-user"></i>Tiểu Học</a></li>
+                                <li><a href="/thu-thuat/trung-hoc-co-so/"><i class="fa-brands fa-leanpub"></i>Trung Học Cơ Sở</a></li>
+                                <li><a href="/thu-thuat/trung-hoc-pho-thong/"><i class="fa-solid fa-school"></i>Trung Học Phổ Thông</a></li>
+                                <li><a href="/thu-thuat/cao-dang-dai-hoc/"><i class="fa-solid fa-graduation-cap"></i>Cao Đẳng, Đại Học</a></li>
+                                <li><a href="/thu-thuat/tieng-anh/"><i class="fa-solid fa-a"></i>Tiếng Anh</a></li>
+                                <li><a href="/thu-thuat/ngoai-ngu/"><i class="fa-sharp fa-solid fa-language"></i>Ngoại Ngữ</a></li>
+                                <li><a href="/thu-thuat/lap-trinh/"><i class="fa-solid fa-code"></i>Lập Trình</a></li>
+                                <li><a href="/thu-thuat/sach-hay/"><i class="fa-solid fa-book"></i>Sách Hay</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </li>
+
+        </ul>
+    </nav>
+</div>
+
+
+        <div class="container">
+            
+            <div class="google-search">
+                <gcse:searchbox-only></gcse:searchbox-only>
+            </div> <!-- End .google-search -->
+
+            
+    <div class="row">        
+                        
+
+<div id="main-content" class="col-lg-8">
+    <div class="main-breadcrumb"><div itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/" itemprop="url"><span itemprop="title">Trang Chủ</span></a>›</div><div itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://thuthuatphanmem.vn/thu-thuat/do-hoa/" itemprop="url"><span itemprop="title">Đồ Họa</span></a></div></div><div class="cat-info"><h1>Thủ Thuật Đồ Họa</h1><div class="cat-desc">Thủ thuật đồ họa, photoshop - Tổng hợp các thủ thuật thiết kế đồ họa, sử dụng phần mềm đồ họa Photoshop, CorelDRAW, Illustrator, chỉnh sửa ảnh... từ cơ bản đển nâng cao giúp các bạn tự học xử lý ảnh photoshop, sử dụng thành thạo các công cụ đồ họa, nâng cao hiệu suất công việc.</div></div>
+    
+     <!-- End .featured-posts -->
+
+    <div class="adv-main-top">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- ThuThuatPhanMem -->
+        <ins class="adsbygoogle"
+                style="display:block"
+                data-ad-client="ca-pub-8968632188895249"
+                data-ad-slot="5778730565"
+                data-ad-format="auto"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+
+    <div class="row"><div class="col-sm-12 post-item-2"><article><h2 class="title"><a rel="bookmark" title="Tổng hợp background chuyển đổi số đẹp nhất" href="https://thuthuatphanmem.vn/tong-hop-background-chuyen-doi-so-dep-nhat/">Tổng hợp background chuyển đổi số đẹp nhất</a></h2><p class="post-meta"><span class="post-author"><i class="far fa-user"></i>Tiến Đạt</span><span class="post-date"><i class="far fa-clock"></i>September 18, 2023</span><div class="post-thumbnail"><a title="Tổng hợp background chuyển đổi số đẹp nhất" href="https://thuthuatphanmem.vn/tong-hop-background-chuyen-doi-so-dep-nhat/"> <img width="360" alt="Tổng hợp background chuyển đổi số đẹp nhất" src="https://img7.thuthuatphanmem.vn/uploads/2023/09/16/tong-hop-background-chuyen-doi-so-dep-nhat_090143330.png"></a></div><div class="post-description"><p>Background chuyển đổi số đẹp được thiết kế thân thiện với người dùng và thể hiện tính chuyên nghiệp, đáng tin cậy.</p></div></article></div><!-- .post-item -->
+<div class="col-sm-12 post-item-2"><article><h2 class="title"><a rel="bookmark" title="100+ Mẫu Logo bảo vệ môi trường đẹp & ý nghĩa" href="https://thuthuatphanmem.vn/100-mau-logo-bao-ve-moi-truong-dep-y-nghia/">100+ Mẫu Logo bảo vệ môi trường đẹp & ý nghĩa</a></h2><p class="post-meta"><span class="post-author"><i class="far fa-user"></i>Tiến Đạt</span><span class="post-date"><i class="far fa-clock"></i>September 12, 2023</span><div class="post-thumbnail"><a title="100+ Mẫu Logo bảo vệ môi trường đẹp & ý nghĩa" href="https://thuthuatphanmem.vn/100-mau-logo-bao-ve-moi-truong-dep-y-nghia/"> <img width="360" alt="100+ Mẫu Logo bảo vệ môi trường đẹp & ý nghĩa" src="https://img7.thuthuatphanmem.vn/uploads/2023/09/11/100-mau-logo-bao-ve-moi-truong-dep-y-nghia_090517743.png"></a></div><div class="post-description"><p>Mỗi chi tiết trong mẫu logo bảo vệ môi trường đều có ý nghĩa riêng về tình yêu và sự chăm sóc đối với thiên nhiên.</p></div></article></div><!-- .post-item -->
+</div><!-- .row -->
+<div class="row"><div class="col-sm-12 post-item-2"><article><h2 class="title"><a rel="bookmark" title="Tổng hợp mẫu Background thiệp mời sự kiện đẹp nhất" href="https://thuthuatphanmem.vn/tong-hop-mau-background-thiep-moi-su-kien-dep-nhat/">Tổng hợp mẫu Background thiệp mời sự kiện đẹp nhất</a></h2><p class="post-meta"><span class="post-author"><i class="far fa-user"></i>Tiến Đạt</span><span class="post-date"><i class="far fa-clock"></i>September 12, 2023</span><div class="post-thumbnail"><a title="Tổng hợp mẫu Background thiệp mời sự kiện đẹp nhất" href="https://thuthuatphanmem.vn/tong-hop-mau-background-thiep-moi-su-kien-dep-nhat/"> <img width="360" alt="Tổng hợp mẫu Background thiệp mời sự kiện đẹp nhất" src="https://img7.thuthuatphanmem.vn/uploads/2023/09/11/tong-hop-mau-background-thiep-moi-su-kien-dep-nhat_102757751.jpg"></a></div><div class="post-description"><p>Mẫu background thiệp mời không chỉ đẹp mắt mà còn tạo nên không khí và phong cách riêng cho sự kiện.</p></div></article></div><!-- .post-item -->
+<div class="col-sm-12 post-item-2"><article><h2 class="title"><a rel="bookmark" title="Tổng hợp mẫu Poster tuyển sinh - Định dạng Vector & PSD" href="https://thuthuatphanmem.vn/tong-hop-mau-poster-tuyen-sinh-dinh-dang-vector-psd/">Tổng hợp mẫu Poster tuyển sinh - Định dạng Vector & PSD</a></h2><p class="post-meta"><span class="post-author"><i class="far fa-user"></i>Tiến Đạt</span><span class="post-date"><i class="far fa-clock"></i>September 8, 2023</span><div class="post-thumbnail"><a title="Tổng hợp mẫu Poster tuyển sinh - Định dạng Vector & PSD" href="https://thuthuatphanmem.vn/tong-hop-mau-poster-tuyen-sinh-dinh-dang-vector-psd/"> <img width="360" alt="Tổng hợp mẫu Poster tuyển sinh - Định dạng Vector & PSD" src="https://img7.thuthuatphanmem.vn/uploads/2023/08/24/tong-hop-mau-poster-tuyen-sinh-dinh-dang-vector-psd_102055823.png"></a></div><div class="post-description"><p>Muốn có được một lớp học thật đông người biết đến nhất định bạn phải sở hữu bộ Poster tuyển sinh với định Vector & PSD</p></div></article></div><!-- .post-item -->
+</div><!-- .row -->
+<div class="row"><div class="col-sm-12 post-item-2"><article><h2 class="title"><a rel="bookmark" title="Tổng hợp mẫu Poster du lịch - Định dạng Vector & PSD" href="https://thuthuatphanmem.vn/tong-hop-mau-poster-du-lich-dinh-dang-vector-psd/">Tổng hợp mẫu Poster du lịch - Định dạng Vector & PSD</a></h2><p class="post-meta"><span class="post-author"><i class="far fa-user"></i>Tiến Đạt</span><span class="post-date"><i class="far fa-clock"></i>September 8, 2023</span><div class="post-thumbnail"><a title="Tổng hợp mẫu Poster du lịch - Định dạng Vector & PSD" href="https://thuthuatphanmem.vn/tong-hop-mau-poster-du-lich-dinh-dang-vector-psd/"> <img width="360" alt="Tổng hợp mẫu Poster du lịch - Định dạng Vector & PSD" src="https://img7.thuthuatphanmem.vn/uploads/2023/08/24/tong-hop-mau-poster-du-lich-dinh-dang-vector-psd_100238134.jpg"></a></div><div class="post-description"><p>Để thu hút được nhiều du khách thì bạn sẽ cần đến bộ Poster du lịch chất lượng cao dưới định dạng Vector & PSD</p></div></article></div><!-- .post-item -->
+<div class="col-sm-12 post-item-2"><article><h2 class="title"><a rel="bookmark" title="Tổng hợp phông nền đám cưới đẹp (Định dạng PSD)" href="https://thuthuatphanmem.vn/tong-hop-phong-nen-dam-cuoi-dep-dinh-dang-psd/">Tổng hợp phông nền đám cưới đẹp (Định dạng PSD)</a></h2><p class="post-meta"><span class="post-author"><i class="far fa-user"></i>Chăm Nguyễn</span><span class="post-date"><i class="far fa-clock"></i>September 6, 2023</span><div class="post-thumbnail"><a title="Tổng hợp phông nền đám cưới đẹp (Định dạng PSD)" href="https://thuthuatphanmem.vn/tong-hop-phong-nen-dam-cuoi-dep-dinh-dang-psd/"> <img width="360" alt="Tổng hợp phông nền đám cưới đẹp (Định dạng PSD)" src="https://img7.thuthuatphanmem.vn/uploads/2023/08/23/tong-hop-phong-nen-dam-cuoi-dep_021136628.jpg"></a></div><div class="post-description"><p>Thiết kế trang trí phông nền đám cưới cũng là 1 phần không thể thiếu của mỗi đám cưới</p></div></article></div><!-- .post-item -->
+</div><!-- .row -->
+<div class="row"><div class="col-sm-12 post-item-2"><article><h2 class="title"><a rel="bookmark" title="Tổng hợp mẫu menu trà sữa (Định dạng Vector & PSD)" href="https://thuthuatphanmem.vn/tong-hop-mau-menu-tra-sua-dinh-dang-vector-psd/">Tổng hợp mẫu menu trà sữa (Định dạng Vector & PSD)</a></h2><p class="post-meta"><span class="post-author"><i class="far fa-user"></i>Chăm Nguyễn</span><span class="post-date"><i class="far fa-clock"></i>September 4, 2023</span><div class="post-thumbnail"><a title="Tổng hợp mẫu menu trà sữa (Định dạng Vector & PSD)" href="https://thuthuatphanmem.vn/tong-hop-mau-menu-tra-sua-dinh-dang-vector-psd/"> <img width="360" alt="Tổng hợp mẫu menu trà sữa (Định dạng Vector & PSD)" src="https://img7.thuthuatphanmem.vn/uploads/2023/08/23/tong-hop-mau-menu-tra-sua_014951360.jpg"></a></div><div class="post-description"><p>Menu trà sữa được thiết kế đẹp cũng sẽ mang đến ấn tượng cho khách hàng và ghi nhớ thương hiệu của quán bạn.</p></div></article></div><!-- .post-item -->
+<div class="col-sm-12 post-item-2"><article><h2 class="title"><a rel="bookmark" title="Tổng hợp mẫu banner tuyển dụng (Định dạng Vector & PSD)" href="https://thuthuatphanmem.vn/tong-hop-mau-banner-tuyen-dung-dinh-dang-vector-psd/">Tổng hợp mẫu banner tuyển dụng (Định dạng Vector & PSD)</a></h2><p class="post-meta"><span class="post-author"><i class="far fa-user"></i>Chăm Nguyễn</span><span class="post-date"><i class="far fa-clock"></i>September 4, 2023</span><div class="post-thumbnail"><a title="Tổng hợp mẫu banner tuyển dụng (Định dạng Vector & PSD)" href="https://thuthuatphanmem.vn/tong-hop-mau-banner-tuyen-dung-dinh-dang-vector-psd/"> <img width="360" alt="Tổng hợp mẫu banner tuyển dụng (Định dạng Vector & PSD)" src="https://img7.thuthuatphanmem.vn/uploads/2023/08/23/tong-hop-mau-banner-tuyen-dung_022112831.jpg"></a></div><div class="post-description"><p>Thiết kế banner không hề khó, nhưng nếu chưa có ý tưởng để thiết kế banner tuyển dụng cho công ty của mình</p></div></article></div><!-- .post-item -->
+</div><!-- .row -->
+<div class="row"><div class="col-sm-12 post-item-2"><article><h2 class="title"><a rel="bookmark" title="Mẫu thông báo nghỉ lễ Quốc khánh 2/9 năm 2023" href="https://thuthuatphanmem.vn/mau-thong-bao-nghi-le-quoc-khanh-29-nam-2023/">Mẫu thông báo nghỉ lễ Quốc khánh 2/9 năm 2023</a></h2><p class="post-meta"><span class="post-author"><i class="far fa-user"></i>Chăm Nguyễn</span><span class="post-date"><i class="far fa-clock"></i>August 25, 2023</span><div class="post-thumbnail"><a title="Mẫu thông báo nghỉ lễ Quốc khánh 2/9 năm 2023" href="https://thuthuatphanmem.vn/mau-thong-bao-nghi-le-quoc-khanh-29-nam-2023/"> <img width="360" alt="Mẫu thông báo nghỉ lễ Quốc khánh 2/9 năm 2023" src="https://img7.thuthuatphanmem.vn/uploads/2023/08/23/mau-thong-bao-nghi-le-quoc-khanh-29-nam-2023_100221399.jpg"></a></div><div class="post-description"><p>Ngày nghỉ lễ Quốc khánh 2/9 năm 2023 đang đến gần, các cơ quan, doanh nghiệp cần phải đưa ra thông báo nghỉ lễ</p></div></article></div><!-- .post-item -->
+<div class="col-sm-12 post-item-2"><article><h2 class="title"><a rel="bookmark" title="Tổng hợp Background sân khấu đẹp" href="https://thuthuatphanmem.vn/tong-hop-background-san-khau-dep/">Tổng hợp Background sân khấu đẹp</a></h2><p class="post-meta"><span class="post-author"><i class="far fa-user"></i>Tiến Đạt</span><span class="post-date"><i class="far fa-clock"></i>August 25, 2023</span><div class="post-thumbnail"><a title="Tổng hợp Background sân khấu đẹp" href="https://thuthuatphanmem.vn/tong-hop-background-san-khau-dep/"> <img width="360" alt="Tổng hợp Background sân khấu đẹp" src="https://img7.thuthuatphanmem.vn/uploads/2023/08/22/tong-hop-background-san-khau-dep_090448170.jpg"></a></div><div class="post-description"><p>Background sân khấu đẹp mang nhiều màu sắc cho chương trình của bạn thêm sống động và cảm xúc.</p></div></article></div><!-- .post-item -->
+</div><!-- .row -->
+<div class="row"><div class="col-sm-12 post-item-2"><article><h2 class="title"><a rel="bookmark" title="Mẫu Logo Techcombank đẹp (PNG, AI, PSD)" href="https://thuthuatphanmem.vn/mau-logo-techcombank-dep-png-ai-psd/">Mẫu Logo Techcombank đẹp (PNG, AI, PSD)</a></h2><p class="post-meta"><span class="post-author"><i class="far fa-user"></i>Tiến Đạt</span><span class="post-date"><i class="far fa-clock"></i>July 6, 2023</span><div class="post-thumbnail"><a title="Mẫu Logo Techcombank đẹp (PNG, AI, PSD)" href="https://thuthuatphanmem.vn/mau-logo-techcombank-dep-png-ai-psd/"> <img width="360" alt="Mẫu Logo Techcombank đẹp (PNG, AI, PSD)" src="https://img7.thuthuatphanmem.vn/uploads/2023/07/06/mau-logo-techcombank-dep-png-ai-psd_045601543.jpg"></a></div><div class="post-description"><p>Để thiết kế những banner quảng cáo chuyên nghiệp cho các dịch vụ tài chính của Techcombank</p></div></article></div><!-- .post-item -->
+<div class="col-sm-12 post-item-2"><article><h2 class="title"><a rel="bookmark" title="Mẫu Logo nha khoa đẹp (PNG, AI, PSD)" href="https://thuthuatphanmem.vn/mau-logo-nha-khoa-dep-png-ai-psd/">Mẫu Logo nha khoa đẹp (PNG, AI, PSD)</a></h2><p class="post-meta"><span class="post-author"><i class="far fa-user"></i>Tiến Đạt</span><span class="post-date"><i class="far fa-clock"></i>July 6, 2023</span><div class="post-thumbnail"><a title="Mẫu Logo nha khoa đẹp (PNG, AI, PSD)" href="https://thuthuatphanmem.vn/mau-logo-nha-khoa-dep-png-ai-psd/"> <img width="360" alt="Mẫu Logo nha khoa đẹp (PNG, AI, PSD)" src="https://img7.thuthuatphanmem.vn/uploads/2023/05/25/mau-logo-nha-khoa-dep-png-ai-psd_091549469.jpg"></a></div><div class="post-description"><p>Bạn muốn có 1 Logo nha khoa chất lượng để tham khảo và thiết kế cho cửa hàng nha khoa</p></div></article></div><!-- .post-item -->
+</div><!-- .row -->
+<div class="row"><div class="col-sm-12 post-item-2"><article><h2 class="title"><a rel="bookmark" title="Top 30 Bản vẽ nhà 2 tầng đẹp, hoàn chỉnh [File CAD]" href="https://thuthuatphanmem.vn/top-30-ban-ve-nha-2-tang-dep-hoan-chinh-file-cad/">Top 30 Bản vẽ nhà 2 tầng đẹp, hoàn chỉnh [File CAD]</a></h2><p class="post-meta"><span class="post-author"><i class="far fa-user"></i>Hoài Nam</span><span class="post-date"><i class="far fa-clock"></i>April 13, 2023</span><div class="post-thumbnail"><a title="Top 30 Bản vẽ nhà 2 tầng đẹp, hoàn chỉnh [File CAD]" href="https://thuthuatphanmem.vn/top-30-ban-ve-nha-2-tang-dep-hoan-chinh-file-cad/"> <img width="360" alt="Top 30 Bản vẽ nhà 2 tầng đẹp, hoàn chỉnh [File CAD]" src="https://img6.thuthuatphanmem.vn/uploads/2023/04/12/nha-hai-tang-hien-dai-khong-gian-mo-thoang-mat_042307192.jpg"></a></div><div class="post-description"><p>Nhà hai tầng đang là mô hình nhà ở rất phổ biến hiện nay, đáp ứng đầy đủ nhu cầu về diện tích</p></div></article></div><!-- .post-item -->
+<div class="col-sm-12 post-item-2"><article><h2 class="title"><a rel="bookmark" title="Tổng hợp ảnh bìa đồ gia dụng đẹp" href="https://thuthuatphanmem.vn/tong-hop-anh-bia-do-gia-dung-dep/">Tổng hợp ảnh bìa đồ gia dụng đẹp</a></h2><p class="post-meta"><span class="post-author"><i class="far fa-user"></i>Tuấn Anh</span><span class="post-date"><i class="far fa-clock"></i>April 13, 2023</span><div class="post-thumbnail"><a title="Tổng hợp ảnh bìa đồ gia dụng đẹp" href="https://thuthuatphanmem.vn/tong-hop-anh-bia-do-gia-dung-dep/"> <img width="360" alt="Tổng hợp ảnh bìa đồ gia dụng đẹp" src="https://img6.thuthuatphanmem.vn/uploads/2023/04/12/hinh-anh-bia-do-gia-dung-dep_051555069.jpg"></a></div><div class="post-description"><p>Bạn đang tìm những mẫu bìa về đồ gia dụng để làm web bán hàng, quảng cáo cho fanpage?</p></div></article></div><!-- .post-item -->
+</div><!-- .row -->
+<div class="row"><div class="col-sm-12 post-item-2"><article><h2 class="title"><a rel="bookmark" title="Top 30 Bản vẽ nhà cấp 4 có 3 phòng ngủ đẹp & đầy đủ công năng [File CAD]" href="https://thuthuatphanmem.vn/top-30-ban-ve-nha-cap-4-co-3-phong-ngu-dep-day-du-cong-nang-file-cad/">Top 30 Bản vẽ nhà cấp 4 có 3 phòng ngủ đẹp & đầy đủ công năng [File CAD]</a></h2><p class="post-meta"><span class="post-author"><i class="far fa-user"></i>Hoài Nam</span><span class="post-date"><i class="far fa-clock"></i>April 12, 2023</span><div class="post-thumbnail"><a title="Top 30 Bản vẽ nhà cấp 4 có 3 phòng ngủ đẹp & đầy đủ công năng [File CAD]" href="https://thuthuatphanmem.vn/top-30-ban-ve-nha-cap-4-co-3-phong-ngu-dep-day-du-cong-nang-file-cad/"> <img width="360" alt="Top 30 Bản vẽ nhà cấp 4 có 3 phòng ngủ đẹp & đầy đủ công năng [File CAD]" src="https://img6.thuthuatphanmem.vn/uploads/2023/04/12/top-30-ban-ve-nha-cap-4-co-3-phong-ngu-dep-day-du-cong-nang_032622030.jpg"></a></div><div class="post-description"><p>Với nhu cầu về nhà ở hiện nay, mô hình nhà cấp 4 có 3 phòng ngủ là lựa chọn phù hợp cho nhiều hộ gia đình.</p></div></article></div><!-- .post-item -->
+<div class="col-sm-12 post-item-2"><article><h2 class="title"><a rel="bookmark" title="Top 30 Bản vẽ nhà cấp 4 có 2 phòng ngủ đẹp & chi tiết [file CAD]" href="https://thuthuatphanmem.vn/top-30-ban-ve-nha-cap-4-co-2-phong-ngu-dep-chi-tiet-file-cad/">Top 30 Bản vẽ nhà cấp 4 có 2 phòng ngủ đẹp & chi tiết [file CAD]</a></h2><p class="post-meta"><span class="post-author"><i class="far fa-user"></i>Hoài Nam</span><span class="post-date"><i class="far fa-clock"></i>April 12, 2023</span><div class="post-thumbnail"><a title="Top 30 Bản vẽ nhà cấp 4 có 2 phòng ngủ đẹp & chi tiết [file CAD]" href="https://thuthuatphanmem.vn/top-30-ban-ve-nha-cap-4-co-2-phong-ngu-dep-chi-tiet-file-cad/"> <img width="360" alt="Top 30 Bản vẽ nhà cấp 4 có 2 phòng ngủ đẹp & chi tiết [file CAD]" src="https://img6.thuthuatphanmem.vn/uploads/2023/04/12/nha-cap-4-2-tang-2-phong-ngu_023005317.jpg"></a></div><div class="post-description"><p>Nhà cấp 4 là mô hình nhà ở phổ biến ở nước ta, với cấu trúc đơn giản và hiệu quả khiến cho nhiều gia chủ ưng ý.</p></div></article></div><!-- .post-item -->
+</div><!-- .row -->
+<div class="row"><div class="col-sm-12 post-item-2"><article><h2 class="title"><a rel="bookmark" title="Top 30 Bản vẽ nhà ống 2 tầng đẹp & chi tiết [File CAD]" href="https://thuthuatphanmem.vn/top-30-ban-ve-nha-ong-2-tang-dep-chi-tiet-file-cad/">Top 30 Bản vẽ nhà ống 2 tầng đẹp & chi tiết [File CAD]</a></h2><p class="post-meta"><span class="post-author"><i class="far fa-user"></i>Tiến Đạt</span><span class="post-date"><i class="far fa-clock"></i>March 28, 2023</span><div class="post-thumbnail"><a title="Top 30 Bản vẽ nhà ống 2 tầng đẹp & chi tiết [File CAD]" href="https://thuthuatphanmem.vn/top-30-ban-ve-nha-ong-2-tang-dep-chi-tiet-file-cad/"> <img width="360" alt="Top 30 Bản vẽ nhà ống 2 tầng đẹp & chi tiết [File CAD]" src="https://img6.thuthuatphanmem.vn/uploads/2023/03/28/top-30-ban-ve-nha-ong-2-tang-dep-chi-tiet_100553844.jpg"></a></div><div class="post-description"><p>Top 30 bản vẽ nhà ống 2 tầng đẹp và chi tiết dưới đây giúp chủ đầu tư có thêm ý tưởng thiết kế trước khi xây.</p></div></article></div><!-- .post-item -->
+<div class="col-sm-12 post-item-2"><article><h2 class="title"><a rel="bookmark" title="Tổng hợp bộ Font chữ thiết kế tiếng Việt đẹp nhất" href="https://thuthuatphanmem.vn/tong-hop-bo-font-chu-thiet-ke-tieng-viet-dep-nhat/">Tổng hợp bộ Font chữ thiết kế tiếng Việt đẹp nhất</a></h2><p class="post-meta"><span class="post-author"><i class="far fa-user"></i>An Dương</span><span class="post-date"><i class="far fa-clock"></i>March 22, 2023</span><div class="post-thumbnail"><a title="Tổng hợp bộ Font chữ thiết kế tiếng Việt đẹp nhất" href="https://thuthuatphanmem.vn/tong-hop-bo-font-chu-thiet-ke-tieng-viet-dep-nhat/"> <img width="360" alt="Tổng hợp bộ Font chữ thiết kế tiếng Việt đẹp nhất" src="https://img3.thuthuatphanmem.vn/uploads/2019/09/13/tong-hop-bo-font-tieng-viet-dep-nhat_013250176.jpg"></a></div><div class="post-description"><p>Font chữ là thành phần quan trọng giúp cho các sản phẩm đồ họa như ảnh, video trở nên độc đáo và cuốn hút hơn.</p></div></article></div><!-- .post-item -->
+</div><!-- .row -->
+<div class="row"><div class="col-sm-12 post-item-2"><article><h2 class="title"><a rel="bookmark" title="Top 30 Bản vẽ nhà cấp 4 đẹp, đơn giản & chi tiết [File CAD]" href="https://thuthuatphanmem.vn/top-30-ban-ve-nha-cap-4-dep-don-gian-chi-tiet-file-cad/">Top 30 Bản vẽ nhà cấp 4 đẹp, đơn giản & chi tiết [File CAD]</a></h2><p class="post-meta"><span class="post-author"><i class="far fa-user"></i>Tiến Đạt</span><span class="post-date"><i class="far fa-clock"></i>March 22, 2023</span><div class="post-thumbnail"><a title="Top 30 Bản vẽ nhà cấp 4 đẹp, đơn giản & chi tiết [File CAD]" href="https://thuthuatphanmem.vn/top-30-ban-ve-nha-cap-4-dep-don-gian-chi-tiet-file-cad/"> <img width="360" alt="Top 30 Bản vẽ nhà cấp 4 đẹp, đơn giản & chi tiết [File CAD]" src="https://img6.thuthuatphanmem.vn/uploads/2023/03/21/top-30-ban-ve-nha-cap-4-dep-don-gian-chi-tiet_100227215.jpg"></a></div><div class="post-description"><p>Bản vẽ nhà cấp 4 được tìm kiếm để thêm những ý tưởng cho ngôi nhà chuẩn bị xây dựng và tối ưu hóa công năng sử dụng.</p></div></article></div><!-- .post-item -->
+<div class="col-sm-12 post-item-2"><article><h2 class="title"><a rel="bookmark" title="Phông nền PSD ghép ảnh cực đẹp" href="https://thuthuatphanmem.vn/phong-nen-psd-ghep-anh-cuc-dep/">Phông nền PSD ghép ảnh cực đẹp</a></h2><p class="post-meta"><span class="post-author"><i class="far fa-user"></i>An Dương</span><span class="post-date"><i class="far fa-clock"></i>March 20, 2023</span><div class="post-thumbnail"><a title="Phông nền PSD ghép ảnh cực đẹp" href="https://thuthuatphanmem.vn/phong-nen-psd-ghep-anh-cuc-dep/"> <img width="360" alt="Phông nền PSD ghép ảnh cực đẹp" src="https://img4.thuthuatphanmem.vn/uploads/2020/08/11/phong-nen-psd-ghep-anh-cuc-dep_030935231.jpg"></a></div><div class="post-description"><p>Với những mẫu phông nền PSD ghép ảnh đẹp dưới đây, bạn có thể sáng tạo những bức ảnh độc đáo</p></div></article></div><!-- .post-item -->
+</div><!-- .row -->
+
+    <div class="col-md-12 custom-pager"><ul class="pagination"><li class="page-item active"><span class="page-link">1</span></li><li class="page-item"><a class="page-link" href="?page=2">2</a></li><li class="page-item"><a class="page-link" href="?page=3">3</a></li><li class="page-item"><a class="page-link" href="?page=4">4</a></li><li class="page-item next-page"><a class="page-link" href="?page=2">Next ›</a></li><li class="page-item last-page"><a class="page-link" href="?page=34">Last »</a></li></ul></div>
+    
+    <div class="col-md-12 adv-main-bottom">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- ThuThuatPhanMem -->
+        <ins class="adsbygoogle"
+                style="display:block"
+                data-ad-client="ca-pub-8968632188895249"
+                data-ad-slot="5778730565"
+                data-ad-format="auto"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+
+</div> <!-- #main-content -->
+
+        
+<div id="sidebar" class="col-lg-4">
+    <div id="cphContent_ucSidebar1_div_adv_sidebar" class="sidebar-item col-xs-12 adv-sidebar">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- ThuThuatPhanMem -->
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-8968632188895249"
+             data-ad-slot="5778730565"
+             data-ad-format="auto"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+  
+    <div id="cphContent_ucSidebar1_div_sidebar_item_new_posts" class="sidebar-item new-posts col-xs-12">
+        <h3 class="block-title"><span>Thủ Thuật Mới</span></h3>
+        <ul>
+            <li><div class="left"><a title="Top 5 Dịch vụ cứu dữ liệu tốt nhất ở Việt Nam hiện nay" href="https://thuthuatphanmem.vn/top-5-dich-vu-cuu-du-lieu-tot-nhat-o-viet-nam-hien-nay/"><img src="https://img7.thuthuatphanmem.vn/uploads/2023/09/20/top-5-dich-vu-cuu-du-lieu-tot-nhat-o-viet-nam-hien-nay_010828641.jpg" alt="Top 5 Dịch vụ cứu dữ liệu tốt nhất ở Việt Nam hiện nay" width ="90" height="60"/></a></div><p><a title="Top 5 Dịch vụ cứu dữ liệu tốt nhất ở Việt Nam hiện nay" href="https://thuthuatphanmem.vn/top-5-dich-vu-cuu-du-lieu-tot-nhat-o-viet-nam-hien-nay/">Top 5 Dịch vụ cứu dữ liệu tốt nhất ở Việt Nam hiện nay</a></p></li><li><div class="left"><a title="100+ Những câu đố vui trí tuệ trí tuệ kèm đáp án" href="https://thuthuatphanmem.vn/100-nhung-cau-do-vui-tri-tue-tri-tue-kem-dap-an/"><img src="https://img7.thuthuatphanmem.vn/uploads/2023/09/20/100-nhung-cau-do-vui-tri-tue-tri-tue-kem-dap-an_075233221.jpg" alt="100+ Những câu đố vui trí tuệ trí tuệ kèm đáp án" width ="90" height="60"/></a></div><p><a title="100+ Những câu đố vui trí tuệ trí tuệ kèm đáp án" href="https://thuthuatphanmem.vn/100-nhung-cau-do-vui-tri-tue-tri-tue-kem-dap-an/">100+ Những câu đố vui trí tuệ trí tuệ kèm đáp án</a></p></li><li><div class="left"><a title="Top 10 Bài phát biểu tết Trung thu 2023 hay & ý nghĩa nhất" href="https://thuthuatphanmem.vn/top-10-bai-phat-bieu-tet-trung-thu-hay-y-nghia-nhat/"><img src="https://img7.thuthuatphanmem.vn/uploads/2023/09/19/top-10-bai-phat-bieu-tet-trung-thu-hay-y-nghia-nhat_091046324.jpg" alt="Top 10 Bài phát biểu tết Trung thu 2023 hay & ý nghĩa nhất" width ="90" height="60"/></a></div><p><a title="Top 10 Bài phát biểu tết Trung thu 2023 hay & ý nghĩa nhất" href="https://thuthuatphanmem.vn/top-10-bai-phat-bieu-tet-trung-thu-hay-y-nghia-nhat/">Top 10 Bài phát biểu tết Trung thu 2023 hay & ý nghĩa nhất</a></p></li><li><div class="left"><a title="Những điều liên quan đến chứng chỉ AWS không phải ai cũng biết" href="https://thuthuatphanmem.vn/nhung-dieu-lien-quan-den-chung-chi-aws-khong-phai-ai-cung-biet/"><img src="https://img7.thuthuatphanmem.vn/uploads/2023/09/20/tips-lua-chon-chung-chi-aws-phu-hop_013023534.png" alt="Những điều liên quan đến chứng chỉ AWS không phải ai cũng biết" width ="90" height="60"/></a></div><p><a title="Những điều liên quan đến chứng chỉ AWS không phải ai cũng biết" href="https://thuthuatphanmem.vn/nhung-dieu-lien-quan-den-chung-chi-aws-khong-phai-ai-cung-biet/">Những điều liên quan đến chứng chỉ AWS không phải ai cũng biết</a></p></li><li><div class="left"><a title="Giải đáp: Acer Swift có tốt không? Review chi tiết sản phẩm" href="https://thuthuatphanmem.vn/giai-dap-acer-swift-co-tot-khong-review-chi-tiet-san-pham/"><img src="https://img7.thuthuatphanmem.vn/uploads/2023/09/20/acer-swift-co-tot-khong-review-chi-tiet-san-pham_101005765.png" alt="Giải đáp: Acer Swift có tốt không? Review chi tiết sản phẩm" width ="90" height="60"/></a></div><p><a title="Giải đáp: Acer Swift có tốt không? Review chi tiết sản phẩm" href="https://thuthuatphanmem.vn/giai-dap-acer-swift-co-tot-khong-review-chi-tiet-san-pham/">Giải đáp: Acer Swift có tốt không? Review chi tiết sản phẩm</a></p></li>
+        </ul>
+    </div>
+
+    <div class="sidebar-item popular-posts col-xs-12">
+        <h3 class="block-title"><span>Thủ Thuật Hay</span></h3>
+        <ul>
+            <li><div class="left"><a title="Ảnh động, tổng hợp 1200 hình ảnh động cực đẹp dùng để trang trí, thiết kế" href="https://thuthuatphanmem.vn/anh-dong-tong-hop-1200-hinh-anh-dong-cuc-dep-dung-de-trang-tri-thiet-ke/"><img src="https://thuthuatphanmem.vn/uploads/2017/10/04/anh-dong-tong-hop-1000-anh-dong-cuc-dep-dung-de-trang-tri_114044.png" alt="Ảnh động, tổng hợp 1200 hình ảnh động cực đẹp dùng để trang trí, thiết kế" width ="90" height="60"/></a></div><p><a title="Ảnh động, tổng hợp 1200 hình ảnh động cực đẹp dùng để trang trí, thiết kế" href="https://thuthuatphanmem.vn/anh-dong-tong-hop-1200-hinh-anh-dong-cuc-dep-dung-de-trang-tri-thiet-ke/">Ảnh động, tổng hợp 1200 hình ảnh động cực đẹp dùng để trang trí, thiết kế</a></p></li><li><div class="left"><a title="Hướng dẫn thay đổi kích thước, kích cỡ ảnh" href="https://thuthuatphanmem.vn/huong-dan-thay-doi-kich-thuoc-kich-co-anh/"><img src="https://thuthuatphanmem.vn/uploads/2015/02/03/huong-dan-thay-doi-kich-thuoc-kich-co-anh_122151.jpg" alt="Hướng dẫn thay đổi kích thước, kích cỡ ảnh" width ="90" height="60"/></a></div><p><a title="Hướng dẫn thay đổi kích thước, kích cỡ ảnh" href="https://thuthuatphanmem.vn/huong-dan-thay-doi-kich-thuoc-kich-co-anh/">Hướng dẫn thay đổi kích thước, kích cỡ ảnh</a></p></li><li><div class="left"><a title="Cách chèn chữ vào ảnh" href="https://thuthuatphanmem.vn/cach-chen-chu-vao-anh/"><img src="https://thuthuatphanmem.vn/uploads/2015/01/27/chen-chu-vao-anh_081702.png" alt="Cách chèn chữ vào ảnh" width ="90" height="60"/></a></div><p><a title="Cách chèn chữ vào ảnh" href="https://thuthuatphanmem.vn/cach-chen-chu-vao-anh/">Cách chèn chữ vào ảnh</a></p></li><li><div class="left"><a title="Tổng hợp bộ font chữ việt hóa cực đẹp cho Photoshop" href="https://thuthuatphanmem.vn/tong-hop-bo-font-chu-viet-hoa-cuc-dep-cho-photoshop/"><img src="https://thuthuatphanmem.vn/uploads/2018/04/02/tong-hop-bo-font-chu-viet-hoa-cuc-dep-cho-photoshop_042300492.png" alt="Tổng hợp bộ font chữ việt hóa cực đẹp cho Photoshop" width ="90" height="60"/></a></div><p><a title="Tổng hợp bộ font chữ việt hóa cực đẹp cho Photoshop" href="https://thuthuatphanmem.vn/tong-hop-bo-font-chu-viet-hoa-cuc-dep-cho-photoshop/">Tổng hợp bộ font chữ việt hóa cực đẹp cho Photoshop</a></p></li><li><div class="left"><a title="Hướng dẫn tạo ảnh động Online trực tuyến - Làm ảnh GIF Online" href="https://thuthuatphanmem.vn/huong-dan-tao-anh-dong-online-truc-tuyen-lam-anh-gif-online/"><img src="https://thuthuatphanmem.vn/uploads/2016/03/12/huong-dan-tao-anh-dong-online-truc-tuyen_110141.gif" alt="Hướng dẫn tạo ảnh động Online trực tuyến - Làm ảnh GIF Online" width ="90" height="60"/></a></div><p><a title="Hướng dẫn tạo ảnh động Online trực tuyến - Làm ảnh GIF Online" href="https://thuthuatphanmem.vn/huong-dan-tao-anh-dong-online-truc-tuyen-lam-anh-gif-online/">Hướng dẫn tạo ảnh động Online trực tuyến - Làm ảnh GIF Online</a></p></li><li><div class="left"><a title="Chèn chữ vào ảnh online" href="https://thuthuatphanmem.vn/chen-chu-vao-anh-online/"><img src="https://thuthuatphanmem.vn/uploads/2016/04/04/chen-chu-vao-anh-online_115018.jpg" alt="Chèn chữ vào ảnh online" width ="90" height="60"/></a></div><p><a title="Chèn chữ vào ảnh online" href="https://thuthuatphanmem.vn/chen-chu-vao-anh-online/">Chèn chữ vào ảnh online</a></p></li><li><div class="left"><a title="Chèn chữ vào ảnh bằng Word" href="https://thuthuatphanmem.vn/chen-chu-vao-anh-bang-word/"><img src="https://thuthuatphanmem.vn/uploads/2015/11/16/word_125104.png" alt="Chèn chữ vào ảnh bằng Word" width ="90" height="60"/></a></div><p><a title="Chèn chữ vào ảnh bằng Word" href="https://thuthuatphanmem.vn/chen-chu-vao-anh-bang-word/">Chèn chữ vào ảnh bằng Word</a></p></li><li><div class="left"><a title="Cách chèn chữ vào ảnh bằng Paint trên Windows" href="https://thuthuatphanmem.vn/cach-chen-chu-vao-anh-bang-paint-tren-windows/"><img src="https://thuthuatphanmem.vn/uploads/2015/12/02/cach-chen-chu-vao-anh-bang-paint-tren-windows_111138.png" alt="Cách chèn chữ vào ảnh bằng Paint trên Windows" width ="90" height="60"/></a></div><p><a title="Cách chèn chữ vào ảnh bằng Paint trên Windows" href="https://thuthuatphanmem.vn/cach-chen-chu-vao-anh-bang-paint-tren-windows/">Cách chèn chữ vào ảnh bằng Paint trên Windows</a></p></li><li><div class="left"><a title="Top 3 trang web giúp bạn chuyển ảnh thành tranh vẽ nhanh và đẹp" href="https://thuthuatphanmem.vn/top-3-trang-web-giup-ban-chuyen-anh-thanh-tranh-ve-nhanh-va-dep/"><img src="https://img2.thuthuatphanmem.vn/uploads/2019/01/16/top-3-trang-web-giup-ban-chuyen-anh-thanh-tranh-ve-nhanh-va-_i7BQl_051448230.jpg" alt="Top 3 trang web giúp bạn chuyển ảnh thành tranh vẽ nhanh và đẹp" width ="90" height="60"/></a></div><p><a title="Top 3 trang web giúp bạn chuyển ảnh thành tranh vẽ nhanh và đẹp" href="https://thuthuatphanmem.vn/top-3-trang-web-giup-ban-chuyen-anh-thanh-tranh-ve-nhanh-va-dep/">Top 3 trang web giúp bạn chuyển ảnh thành tranh vẽ nhanh và đẹp</a></p></li><li><div class="left"><a title="Cách ghép ảnh trên máy tính đơn giản, nhanh chóng" href="https://thuthuatphanmem.vn/cach-ghep-anh-tren-may-tinh-don-gian-nhanh-chong/"><img src="https://img2.thuthuatphanmem.vn/uploads/2018/11/19/cach-ghep-anh-tren-may-tinh-don-gian-nhanh-chong-033352012_100513897.jpg" alt="Cách ghép ảnh trên máy tính đơn giản, nhanh chóng" width ="90" height="60"/></a></div><p><a title="Cách ghép ảnh trên máy tính đơn giản, nhanh chóng" href="https://thuthuatphanmem.vn/cach-ghep-anh-tren-may-tinh-don-gian-nhanh-chong/">Cách ghép ảnh trên máy tính đơn giản, nhanh chóng</a></p></li><li><div class="left"><a title="Phần mềm chèn chữ vào ảnh" href="https://thuthuatphanmem.vn/phan-mem-chen-chu-vao-anh/"><img src="https://thuthuatphanmem.vn/uploads/2015/12/02/phan-mem-chen-chu-vao-anh_112451.png" alt="Phần mềm chèn chữ vào ảnh" width ="90" height="60"/></a></div><p><a title="Phần mềm chèn chữ vào ảnh" href="https://thuthuatphanmem.vn/phan-mem-chen-chu-vao-anh/">Phần mềm chèn chữ vào ảnh</a></p></li><li><div class="left"><a title="Cách phóng to, thu nhỏ (Zoom) trong Photoshop" href="https://thuthuatphanmem.vn/cach-phong-to-thu-nho-zoom-trong-photoshop/"><img src="https://thuthuatphanmem.vn/uploads/2018/06/19/muon-phong-to-anh-thi-chon-kinh-lup-hinh-dau-cong_102039483.png" alt="Cách phóng to, thu nhỏ (Zoom) trong Photoshop" width ="90" height="60"/></a></div><p><a title="Cách phóng to, thu nhỏ (Zoom) trong Photoshop" href="https://thuthuatphanmem.vn/cach-phong-to-thu-nho-zoom-trong-photoshop/">Cách phóng to, thu nhỏ (Zoom) trong Photoshop</a></p></li><li><div class="left"><a title="Cách ghép ảnh, cắt ảnh bằng Paint" href="https://thuthuatphanmem.vn/cach-ghep-anh-cat-anh-bang-paint/"><img src="https://thuthuatphanmem.vn/uploads/2018/07/02/cach-ghep-anh-cat-anh-bang-paint_013017235.jpg" alt="Cách ghép ảnh, cắt ảnh bằng Paint" width ="90" height="60"/></a></div><p><a title="Cách ghép ảnh, cắt ảnh bằng Paint" href="https://thuthuatphanmem.vn/cach-ghep-anh-cat-anh-bang-paint/">Cách ghép ảnh, cắt ảnh bằng Paint</a></p></li><li><div class="left"><a title="Hướng dẫn dùng Photoshop Online" href="https://thuthuatphanmem.vn/huong-dan-dung-photoshop-online/"><img src="https://thuthuatphanmem.vn/uploads/2015/11/23/huong-dan-dung-photoshop-online_114712.jpg" alt="Hướng dẫn dùng Photoshop Online" width ="90" height="60"/></a></div><p><a title="Hướng dẫn dùng Photoshop Online" href="https://thuthuatphanmem.vn/huong-dan-dung-photoshop-online/">Hướng dẫn dùng Photoshop Online</a></p></li><li><div class="left"><a title="Khung hình đẹp – Tổng hợp 50+ khung hình để ghép ảnh cực đẹp" href="https://thuthuatphanmem.vn/khung-hinh-dep-tong-hop-50-khung-hinh-de-ghep-anh-cuc-dep/"><img src="https://thuthuatphanmem.vn/uploads/2018/04/09/tong-hop-50-khung-hinh-de-ghep-anh-cuc-dep_034736316.jpg" alt="Khung hình đẹp – Tổng hợp 50+ khung hình để ghép ảnh cực đẹp" width ="90" height="60"/></a></div><p><a title="Khung hình đẹp – Tổng hợp 50+ khung hình để ghép ảnh cực đẹp" href="https://thuthuatphanmem.vn/khung-hinh-dep-tong-hop-50-khung-hinh-de-ghep-anh-cuc-dep/">Khung hình đẹp – Tổng hợp 50+ khung hình để ghép ảnh cực đẹp</a></p></li><li><div class="left"><a title="Bộ font thư pháp cực đẹp cho thiết kế 2023" href="https://thuthuatphanmem.vn/bo-font-thu-phap-cuc-dep-cho-thiet-ke/"><img src="https://thuthuatphanmem.vn/uploads/2018/05/17/bo-font-thu-phap-cuc-dep-cho-thiet-ke_104718190.png" alt="Bộ font thư pháp cực đẹp cho thiết kế 2023" width ="90" height="60"/></a></div><p><a title="Bộ font thư pháp cực đẹp cho thiết kế 2023" href="https://thuthuatphanmem.vn/bo-font-thu-phap-cuc-dep-cho-thiet-ke/">Bộ font thư pháp cực đẹp cho thiết kế 2023</a></p></li><li><div class="left"><a title="Cách viết chữ trong Paint" href="https://thuthuatphanmem.vn/cach-viet-chu-trong-paint/"><img src="https://thuthuatphanmem.vn/uploads/2018/07/02/cach-viet-chu-trong-paint_015703508.jpg" alt="Cách viết chữ trong Paint" width ="90" height="60"/></a></div><p><a title="Cách viết chữ trong Paint" href="https://thuthuatphanmem.vn/cach-viet-chu-trong-paint/">Cách viết chữ trong Paint</a></p></li><li><div class="left"><a title="Hướng dẫn cách tăng độ phân giải cho ảnh" href="https://thuthuatphanmem.vn/huong-dan-cach-tang-do-phan-giai-cho-anh/"><img src="https://thuthuatphanmem.vn/uploads/2018/09/15/huong-dan-cach-tang-do-phan-giai-cho-anh_104001210.jpg" alt="Hướng dẫn cách tăng độ phân giải cho ảnh" width ="90" height="60"/></a></div><p><a title="Hướng dẫn cách tăng độ phân giải cho ảnh" href="https://thuthuatphanmem.vn/huong-dan-cach-tang-do-phan-giai-cho-anh/">Hướng dẫn cách tăng độ phân giải cho ảnh</a></p></li><li><div class="left"><a title="Phần mềm chỉnh sửa ảnh miễn phí Paint.Net" href="https://thuthuatphanmem.vn/phan-mem-chinh-sua-anh-mien-phi-paint-net/"><img src="https://thuthuatphanmem.vn/uploads/2014/12/02/giao-dien-paintnet_050400.jpg" alt="Phần mềm chỉnh sửa ảnh miễn phí Paint.Net" width ="90" height="60"/></a></div><p><a title="Phần mềm chỉnh sửa ảnh miễn phí Paint.Net" href="https://thuthuatphanmem.vn/phan-mem-chinh-sua-anh-mien-phi-paint-net/">Phần mềm chỉnh sửa ảnh miễn phí Paint.Net</a></p></li><li><div class="left"><a title="Hướng dẫn cách sử dụng Paint trong Windows" href="https://thuthuatphanmem.vn/huong-dan-cach-su-dung-paint-trong-windows/"><img src="https://thuthuatphanmem.vn/uploads/2018/07/02/huong-dan-cach-su-dung-paint-trong-windows_021733897.jpg" alt="Hướng dẫn cách sử dụng Paint trong Windows" width ="90" height="60"/></a></div><p><a title="Hướng dẫn cách sử dụng Paint trong Windows" href="https://thuthuatphanmem.vn/huong-dan-cach-su-dung-paint-trong-windows/">Hướng dẫn cách sử dụng Paint trong Windows</a></p></li><li><div class="left"><a title="Cách xóa phông nền ảnh online trực tuyến" href="https://thuthuatphanmem.vn/cach-xoa-phong-nen-anh-online-truc-tuyen/"><img src="https://thuthuatphanmem.vn/uploads/2018/10/09/cach-xoa-phong-nen-anh-online-truc-tuyen_040127214.png" alt="Cách xóa phông nền ảnh online trực tuyến" width ="90" height="60"/></a></div><p><a title="Cách xóa phông nền ảnh online trực tuyến" href="https://thuthuatphanmem.vn/cach-xoa-phong-nen-anh-online-truc-tuyen/">Cách xóa phông nền ảnh online trực tuyến</a></p></li><li><div class="left"><a title="Top 5 trang web tạo Logo online, tạo Logo trực tuyến tốt nhất" href="https://thuthuatphanmem.vn/top-5-trang-web-tao-logo-online-tao-logo-truc-tuyen-tot-nhat/"><img src="https://thuthuatphanmem.vn/uploads/2017/10/16/tao-logo-online-tren-trang-https-www-graphicsprings-com_015149.jpg" alt="Top 5 trang web tạo Logo online, tạo Logo trực tuyến tốt nhất" width ="90" height="60"/></a></div><p><a title="Top 5 trang web tạo Logo online, tạo Logo trực tuyến tốt nhất" href="https://thuthuatphanmem.vn/top-5-trang-web-tao-logo-online-tao-logo-truc-tuyen-tot-nhat/">Top 5 trang web tạo Logo online, tạo Logo trực tuyến tốt nhất</a></p></li><li><div class="left"><a title="Hướng dẫn cách cắt ảnh hình tròn online" href="https://thuthuatphanmem.vn/huong-dan-cach-cat-anh-hinh-tron-online/"><img src="https://img4.thuthuatphanmem.vn/uploads/2020/03/16/huong-dan-cach-cat-anh-hinh-tron-online_110315180.jpg" alt="Hướng dẫn cách cắt ảnh hình tròn online" width ="90" height="60"/></a></div><p><a title="Hướng dẫn cách cắt ảnh hình tròn online" href="https://thuthuatphanmem.vn/huong-dan-cach-cat-anh-hinh-tron-online/">Hướng dẫn cách cắt ảnh hình tròn online</a></p></li><li><div class="left"><a title="File AI là gì Phần mềm mở file AI Cách mở file AI" href="https://thuthuatphanmem.vn/file-ai-la-gi-phan-mem-mo-file-ai-cach-mo-file-ai/"><img src="https://thuthuatphanmem.vn/uploads/2018/09/15/file-ai-la-gi-phan-mem-mo-file-ai-cach-mo-file-ai_040116853.jpg" alt="File AI là gì Phần mềm mở file AI Cách mở file AI" width ="90" height="60"/></a></div><p><a title="File AI là gì Phần mềm mở file AI Cách mở file AI" href="https://thuthuatphanmem.vn/file-ai-la-gi-phan-mem-mo-file-ai-cach-mo-file-ai/">File AI là gì Phần mềm mở file AI Cách mở file AI</a></p></li><li><div class="left"><a title="Cách chuyển hàng loạt file CR2 sang JPG cực nhanh bằng Photoshop" href="https://thuthuatphanmem.vn/cach-chuyen-hang-loat-file-cr2-sang-jpg-cuc-nhanh-bang-photoshop/"><img src="https://thuthuatphanmem.vn/uploads/2017/09/16/photoshop_104557.jpg" alt="Cách chuyển hàng loạt file CR2 sang JPG cực nhanh bằng Photoshop" width ="90" height="60"/></a></div><p><a title="Cách chuyển hàng loạt file CR2 sang JPG cực nhanh bằng Photoshop" href="https://thuthuatphanmem.vn/cach-chuyen-hang-loat-file-cr2-sang-jpg-cuc-nhanh-bang-photoshop/">Cách chuyển hàng loạt file CR2 sang JPG cực nhanh bằng Photoshop</a></p></li>
+        </ul>
+    </div>      
+    
+    
+
+</div> <!-- #sidebar -->        
+    </div> <!-- .row -->
+
+        </div> <!-- End #main-container -->
+        
+<footer>
+    <div class="container">
+        <div class="row footer-widgets">
+
+            <div class="col-md-4 f-widget f-widget-1">
+                <h3>Thủ Thuật Phần Mềm</h3>
+                <p>Blog chia sẻ thủ thuật hay về phần mềm, internet, tin văn phòng, bảo mật, đồ họa, phần cứng, di động, game.</p>
+                <p class="dmca"><a href="//www.dmca.com/Protection/Status.aspx?ID=92df8a2e-7d47-4718-850d-2dfafd7b0a4a" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/_dmca_premi_badge_4.png?ID=92df8a2e-7d47-4718-850d-2dfafd7b0a4a"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script></p>
+                <p class="qc-mobile"><a rel="nofollow" href="/page/quang-cao/">Liên hệ quảng cáo</a></p>
+            </div>
+
+            <div class="col-md-4 f-widget f-widget-2">
+                <h3>Trợ Giúp</h3>
+                <div class="row">
+                    <ul class="col-sm-6">
+                        <li><a rel="nofollow" href="/page/lien-he/">Liên hệ</a></li>
+                        <li><a rel="nofollow" href="/page/quang-cao/">Quảng cáo</a></li>
+                        <li><a href="/page/tuyen-cong-tac-vien-viet-bai-thu-thuat-may-tinh/">Tuyển dụng</a></li>
+                    </ul>
+                    <ul class="col-sm-6">
+                        <li><a rel="nofollow" href="/page/gioi-thieu/">Giới thiệu</a></li>
+                        <li><a rel="nofollow" href="/page/dieu-khoan-su-dung/">Điều khoản sử dụng</a></li>
+                        <li><a rel="nofollow" href="/page/chinh-sach-bao-mat/">Chính sách bảo mật</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-md-4 f-widget f-widget-3">
+                <h3>Liên Kết</h3>
+                <div class="row">
+                    <ul class="col-sm-6">
+                        <li class="qc-pc-link"><a target="_blank" title="Thủ thuật tin học" href="https://thuthuattinhoc.vn/">Thủ thuật tin học</a></li>
+                        <li class="qc-pc-link"><a target="_blank" title="Học Excel từ cơ bản đến nâng cao" href="https://excel.net.vn/">Học Excel căn bản</a></li>
+                        <li class="qc-pc-link"><a target="_blank" title="Chuyển PDF sang Word" href="https://pdf.vn/huong-dan/chuyen-pdf-sang-word/">Chuyển PDF sang Word</a></li>
+                    </ul>
+
+                    <ul class="col-sm-6">
+                        <li class="qc-pc-link"><a target="_blank" title="Giải Bài Tập" href="https://giaibaitap123.com/">Giải bài tập</a></li>
+                        <li class="qc-pc-link"><a target="_blank" title="Chia sẻ kiến thức hay" href="https://kienthucvui.vn/">Kiến thức hay</a></li>
+                        <li class="qc-pc-link"><a target="_blank" rel="nofollow" title="Máy tính Trung Diệp" href="https://trungdiep.com/">Máy tính Trung Diệp</a></li>
+                    </ul>
+                </div>
+            </div>
+
+        </div><!--.footer-widgets-->
+
+    </div><!--.container-->
+
+
+    <div class="copyrights">
+        <div class="row" id="copyright-note">
+            <span>
+                Copyright &copy; 2023 ThuThuatPhanMem.vn             
+            </span>
+            <div class="top"><a href="#header">Back to Top &uarr;</a></div>
+        </div>
+        <div id="back-to-top">
+            <a title="Di chuyển lên đầu trang" rel="nofollow" href="#header">
+                <span><i class="fas fa-arrow-up"></i></span>
+            </a>
+        </div>
+    </div> <!-- .copyrights -->
+
+</footer><!--footer-->
+
+
+<!--start footer code-->
+
+<script type="text/javascript" src="/js/custom.js"></script>
+
+<script>
+    $("a[href*='#']:not([href='#])").click(function () {
+        let target = $(this).attr("href");
+        //var root = $('html, body');
+
+        if (target === "#top") {
+            $('html, body').stop().animate({
+                scrollTop: 0
+            }, 300);
+        }
+        else {
+            if ($(window).width() > 991) {
+                $('html, body').stop().animate({
+                    scrollTop: $(target).offset().top
+                }, 500);
+            }
+            else {
+                $('html, body').stop().animate({
+                    scrollTop: $(target).offset().top - 55
+                    //scrollTop: $(target).offset().top
+                }, 500);
+            }
+        }
+
+        //event.preventDefault();
+    });
+</script>
+
+<div id="ucFooter1_div_adv_footer">
+   
+</div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-78416376-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script type="text/javascript">
+    window.onload = function () {
+        setTimeout(function () {
+            document.getElementById('gsc-i-id1').placeholder = 'Nhập từ khóa cần tìm';
+        }, 500);
+    };
+</script>
+
+<!--end footer code-->
+    </div> <!-- #wrap -->
+</body>
+</html>
